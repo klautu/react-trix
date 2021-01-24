@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/dstpierre/react-trix",
   "dependencies": {
-    "trix": "^1.2.2"
+    "trix": "git://github.com/klautu/trix/tree/add_target_blank_to_create_link"
   },
   "devDependencies": {
     "@types/react": "^16.7.22",
