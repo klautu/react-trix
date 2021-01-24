@@ -35,7 +35,11 @@
   },
   "homepage": "https://github.com/dstpierre/react-trix",
   "dependencies": {
+<<<<<<< Updated upstream
     "trix": "^1.2.2"
+=======
+    "trix": "git+https://git@github.com/klautu/trix.git"
+>>>>>>> Stashed changes
   },
   "devDependencies": {
     "@types/react": "^16.7.22",
